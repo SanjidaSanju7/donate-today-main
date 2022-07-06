@@ -1,0 +1,241 @@
+body {
+    background-image: url(images/donation12.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+
+}
+
+.container {
+    margin: 200px 150px;
+}
+
+.title1 {
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 60px;
+    color: white;
+}
+
+.banner-text {
+    text-align: center;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+#banner-btn {
+    width: 150px;
+    height: 50px;
+    padding: 15px;
+    background-color: rgb(222, 68, 68);
+    border-radius: 5px;
+    color: white;
+    margin: 30px 400px;
+    border-style: none;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.section-two {
+    text-align: center;
+    margin-top: 320px;
+}
+
+.title2 {
+    font-size: 50px;
+    padding: 5px;
+}
+
+.donate-text {
+    color: grey;
+    font-size: 20px;
+
+}
+
+.donate-amount {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.gray {
+    background-color: aliceblue;
+    width: 120px;
+    height: 100px;
+}
+
+#colorful {
+    background-color: rgb(255, 237, 237);
+    width: 120px;
+    height: 100px;
+    border: 2px solid rgb(222, 68, 68);
+    border-radius: 5px;
+    color: rgb(222, 68, 68)
+}
+
+.link-btn {
+    width: 150px;
+    height: 50px;
+    padding: 15px;
+    background-color: rgb(222, 68, 68);
+    border-radius: 5px;
+    color: white;
+    margin: 30px 400px;
+    border-style: none;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+input {
+    text-align: center;
+    color: grey;
+    border-style: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+hr {
+    width: 500px;
+}
+
+.title3 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.text {
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+
+}
+
+.section-three {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 70px;
+}
+
+.card1 {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(226, 243, 238);
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 20px;
+
+}
+
+.text2 {
+    color: grey;
+}
+
+.card2 {
+    background-color: rgb(243, 231, 228);
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+
+
+}
+
+.card3 {
+    background-color: rgb(241, 231, 236);
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+
+}
+
+.image {
+    background-image: url(images/smile.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    margin-top: 100px;
+
+}
+
+.title4 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    font-size: 35px;
+    margin-left: 60px;
+    padding: 30px;
+}
+
+span {
+    background-color: black;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.title5 {
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+.container1 {
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+
+}
+
+.title5 {
+    margin-top: 50px;
+}
+
+.para1 {
+    color: gray;
+    font-family: 'Source Sans Pro', sans-serif;
+
+
+}
+
+.subscribe-button {
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.input2 {
+    display: inline;
+    width: 400px;
+    height: 20px;
+    padding: 10px;
+    margin-left: 300px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+
+#red {
+    width: 90px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: auto;
+    border-radius: 5px;
+
+}
+
+.footer-content {
+    position: absolute;
+    width: 100%;
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    margin-top: 80px;
+    padding: 20px;
+}
+
+.footer-header {
+    color: rgb(239, 105, 105);
+    font-size: 40px;
+}
